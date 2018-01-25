@@ -36,3 +36,9 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
+# Visual Code
+.project
+.settings
+.classpath
+bin
+
